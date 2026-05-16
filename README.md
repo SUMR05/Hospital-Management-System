@@ -11,12 +11,7 @@ Hospital Management System is a web-based application used to manage hospital op
 - Database Storage
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- PHP
 - MySQL
-
 ## Database
 Import the SQL file:
 Hospital Management System.sql
